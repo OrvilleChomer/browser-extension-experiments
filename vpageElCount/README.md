@@ -1,4 +1,4 @@
-# Visible Page Element Count Browser Extension
+# Experiment: Visible Page Element Count Browser Extension
 
 Injects JavaScript code that walks the DOM and counts up the number of visible DOM elements on the page, displays that count, and the total milliseconds it took to do.
 

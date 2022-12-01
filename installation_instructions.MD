@@ -4,7 +4,7 @@ Blurb on preparing code for a browser extension.
 
 ## nnnn
 
-### Chrome
+### Google Chrome
 - From the *Window* menu, pick the *Extensions* option
 - A new tab will load with the caption: 'Extensions'.  It will have an icon that looks like a puzzle piece.
 - This tab will display a list of all the browser extensions that you have installed for the Chrome browser at this time.
@@ -16,6 +16,6 @@ Blurb on preparing code for a browser extension.
 
 ### Firefox
 
-### Safari
+### Apple Safari
 
-### Edge
+### Microsoft Edge

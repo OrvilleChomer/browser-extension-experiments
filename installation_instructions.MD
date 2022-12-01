@@ -12,7 +12,7 @@ Blurb on preparing code for a browser extension.
 - Click the [Load Unpacked] button in the upper left-hand corner of the page.
 - A file dialog will appear.
 - Select the folder that contains the browser extension code and click [Select]
-- The extension is now installed!
+- This will install the extension!
 
 ### Firefox
 
